@@ -12,7 +12,7 @@ namespace Kontur.Courses.Git
 				return lastResult = double.Parse(args[0]);
 			if (args.Length == 2)
 			{
-				// ≈сли не хватает первого аргумента, то использовать lastResult
+				// ≈сли не хватает первого аргумента, то использовать lastResult// ≈сли не хватает первого аргумента, то использовать lastResult
 				// ƒолжно работать так:
 				// 2 + 2
 				//> 4
